@@ -4,8 +4,6 @@ from SunsetVision import SunsetVision
 
 # Request All Relevant Data
 # - / Cloud Coverage Percentage
-# - X Cloud Type
-# - X Air Quality
 # - / Forecast (For rain and then a stop)
 # - / Humidity Percentage
 # - / Wind Speed and Changes
